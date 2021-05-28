@@ -1,0 +1,68 @@
+.background{
+    background-color:#6E9388 !important;
+    min-height: 100vh;
+    justify-content: center;
+    align-content: center;
+    display:flex;
+}
+.wrapper{
+    display:flex;
+    flex-direction: column;
+}
+.TopText{
+    color:#FFFFFF;
+    text-align: start;
+
+    font-size:36px;
+}
+.Row{
+    filter: drop-shadow(6px 12px 5px rgba(0, 0, 0, 0.08));
+    display:flex;
+    align-content: space-around;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+
+.card{
+width: 1030px;
+height: 807px;
+background: #FFFFFF;
+        display:flex;
+align-items: center;
+    justify-content: center;
+    flex-direction: column;
+box-shadow: 10px 12px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+     gap: 12px;
+
+    margin-top:2em;
+    margin-left:264px;
+}
+
+.HeaderOne{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 28px;
+letter-spacing: 0.3px;
+margin-right:685px;
+    margin-top:10px;
+color: #14584E;
+text-align: start;
+    align-items: start;
+    align-self:start;
+}
+
+.RowHeader{
+    filter: drop-shadow(6px 12px 5px rgba(0, 0, 0, 0.08));
+    display:flex;
+    align-content: space-evenly;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-inside:50px;
+    margin-top:20px;
+
+}

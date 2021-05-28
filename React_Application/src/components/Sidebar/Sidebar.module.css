@@ -1,0 +1,38 @@
+.Block{
+    height: 100vh !important;
+    margin: 0 auto;
+      position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.img{
+    margin-right:25px;
+}
+.SidebarHeader{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    margin-inside: 5px;
+    font-size:24px !important;
+    color:#14584E !important;
+}
+.GreenhouseH4{
+    margin-left:10px;
+    font-size:32px !important;
+    margin-top:5px;
+}
+
+.MenuItem{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 20px !important;
+line-height: 19px;
+/* identical to box height */
+
+letter-spacing: 0.2px;
+
+color: rgba(20, 88, 78, 0.6);
+
+}

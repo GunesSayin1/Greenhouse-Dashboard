@@ -1,0 +1,166 @@
+.background{
+    background-color:#6E9388 !important;
+    min-height: 100vh;
+    overflow:hidden;
+}
+	.flexgrid {
+	  display: flex;
+	}
+	.flexcol {
+	  flex: 1;
+	}
+.Card{
+
+
+background: #FFFFFF;
+
+padding-left: 100px;
+padding-top: 10px;
+border-radius: 20px;
+margin-top:25px;
+overflow:hidden;
+
+
+
+}
+
+#bottom-row{
+    margin-left:325px;
+}
+
+.Topic{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.3px;
+
+color: #14584E;
+}
+.TopText{
+    color:#FFFFFF;
+    text-align: start;
+    font-size:36px;
+    margin-left:-32em;
+    margin-bottom: 0.2em;
+
+}
+.Wrapone{
+    margin-left: 30em;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    margin-top:0px;
+}
+.Wraptwo{
+    margin-top:3em;
+    margin-left: 30em;
+}
+
+
+.column {
+    display:flex;
+  float: left;
+  padding: 0px;
+  height: 215px; /* Should be removed. Only for demonstration */
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.row{
+    padding-left: 300px;
+    margin-left: 600px;
+    width:50%;
+border-radius: 20px;
+    box-shadow: 10px 12px 4px rgba(0, 0, 0, 0.25);
+    background: #FFFFFF;
+    padding:0;
+    margin-top:25px;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+/* Clear floats after the columns */
+.card{
+width: 165px;
+height: 180px;
+background: #FFFFFF;
+display:flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+background: #FFFFFF;
+/* 1 */
+margin-left: 30px;
+box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.06), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+border-radius: 28px;
+     gap: 12px;
+    textTransform: 'capitalize'
+}
+
+.Measurement{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 23.9789px;
+line-height: 28px;
+color: #000000;
+margin-top:25px;
+    margin-right:0.5em;
+}
+
+.MeasurementTitle{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.3px;
+
+color: #14584E;
+
+margin-top:25px;
+    margin-right:0.5em;
+
+}
+
+.MeasurementDate{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #8d8484;
+margin-right:2em;
+}
+
+.Icon{
+width: 35px;
+height: 35px;
+    margin-right:4em;
+
+}
+
+.MeasurementName{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20.1118px;
+line-height: 24px;
+/* identical to box height */
+
+
+/* text-primary */
+
+color: #404040;
+}
+
+.Column{
+    display:block;
+    margin-bottom:2em;
+}

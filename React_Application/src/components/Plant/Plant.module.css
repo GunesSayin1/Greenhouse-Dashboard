@@ -1,0 +1,22 @@
+.PlantVector{
+    margin-left:6px;
+    margin-top:5px;
+}
+
+.TooltipTop{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+    margin-top:5px;
+    margin-bottom: 5px;
+
+
+color: #E85E45;
+}
+
+.Line{
+    border: 1.3px solid #FFFFFF;
+}

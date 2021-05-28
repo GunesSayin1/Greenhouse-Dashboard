@@ -1,0 +1,190 @@
+.background{
+    background-color:#6E9388 !important;
+    min-height: 100vh;
+    justify-content: center;
+    align-content: center;
+    display:flex;
+}
+.wrapper{
+    display:flex;
+    flex-direction: column;
+}
+.TopText{
+    color:#FFFFFF;
+    text-align: start;
+
+    font-size:36px;
+}
+.Row{
+    filter: drop-shadow(6px 12px 5px rgba(0, 0, 0, 0.08));
+    display:flex;
+    align-content: space-around;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 15px;
+
+}
+
+.card{
+width: 550px;
+height: 757px;
+background: #FFFFFF;
+        display:flex;
+align-items: center;
+    justify-content: center;
+    flex-direction: column;
+box-shadow: 10px 12px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+     gap: 12px;
+
+    margin-top:2em;
+    margin-left:264px;
+}
+
+.HeaderOne{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 28px;
+letter-spacing: 0.3px;
+margin-left:15px;
+    margin-top:10px;
+color: #14584E;
+text-align: start;
+    align-items: start;
+    align-self:start;
+}
+
+.RowHeader{
+    filter: drop-shadow(6px 12px 5px rgba(0, 0, 0, 0.08));
+    display:flex;
+    align-content: space-evenly;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-inside:50px;
+    margin-top:20px;
+
+}
+
+::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  background-image: url('bi_calendar.svg');
+    width:20px;
+    position: absolute;
+    top: 48px;
+    right:20px;
+
+}
+.Label{
+    padding-left: 62px;
+    margin-top: 10px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #D16B49;
+
+}
+
+.Block{
+    display:block;
+    position:relative;
+    bottom:23px;
+}
+
+
+.H5{
+    padding-left: 62px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #D16B49;
+
+
+}
+
+.H2{
+
+
+    padding-right: 202px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 14px;
+    margin-top: -15px;
+    margin-bottom: 15px;
+/* identical to box height */
+
+
+color: #14584e;
+
+
+}
+
+.Placeholder{
+  position: relative;
+  top: 0px;
+  left: 35px;
+  font-size: 18px;
+width:20px;
+color:#D16B49;
+}
+.LoginInput{
+width: 414px;
+height: 56px;
+left: 513px;
+top: 511px;
+background: #F5EADF;
+border-radius: 8px;
+border-color:#f5eadf;
+margin-bottom:15px;
+    margin-top:5px;
+    box-shadow:0px 0px;
+    border-style:solid;
+    padding-left: 42px;
+}
+
+::placeholder{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 14px;
+color: #D16B49;
+    margin-inside: 25px;
+}
+.LoginButton{
+background: #30564E;
+border: 0px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+width: 338px;
+height: 48px;
+    margin-top:10px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}

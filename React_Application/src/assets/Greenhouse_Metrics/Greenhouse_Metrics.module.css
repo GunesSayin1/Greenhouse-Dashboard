@@ -1,0 +1,88 @@
+.background{
+    background-color:#6E9388 !important;
+    min-height: 2122vh !important;
+    overflow:hidden !important;
+}
+
+
+
+.TopText{
+    color:#FFFFFF;
+    text-align: start;
+    font-size:36px;
+    margin-left:-32em;
+    margin-bottom: 0.2em;
+
+}
+
+.Row{
+    filter: drop-shadow(6px 12px 5px rgba(0, 0, 0, 0.08));
+    display:flex;
+    align-content: space-around;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-bottom: 3.5em;
+    margin-left:250px;
+    overflow: hidden;
+
+}
+
+.card{
+width: 680px;
+height: 227px;
+background: #FFFFFF;
+display:flex;
+justify-content: center;
+flex-direction: row;
+flex-wrap:wrap;
+box-shadow: 10px 12px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+margin-left:20px;
+overflow:hidden;
+    text-align: start;
+
+
+}
+
+
+.HeaderOne{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 28px;
+letter-spacing: 0.3px;
+margin-top:10px;
+    margin-right:220px;
+color: #14584E;
+text-align: start;
+align-items: start;
+align-self:start;
+}
+
+.FlexContainer{
+  display: flex;
+  justify-content: space-around;
+  background-color: DodgerBlue;
+      align-items: center;
+    flex-direction: row;
+}
+
+.Column{
+    display:flex;
+    flex-direction: row;
+}
+
+.ChartHeader{
+    /* Bold 19 (0.4 px) */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 24px;
+letter-spacing: 0.4px;
+
+color: #14584E;
+}
