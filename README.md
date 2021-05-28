@@ -15,7 +15,7 @@ https://gist.github.com/GunesSayin1/983b3254ad2b03c3a59dc354cc4134df
 
 ## Database Structure
 
-![Database ER diagram (crow's foot)](C:\Users\Gunes\Downloads\Database ER diagram (crow's foot).png)
+![Database ER diagram (crow's foot)](https://user-images.githubusercontent.com/62821891/120045317-ff961380-c00f-11eb-92d7-65bfd138f630.png)
 
 ### Explanation of Tables and Columns
 
