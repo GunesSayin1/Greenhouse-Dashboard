@@ -404,7 +404,7 @@ Sensor related endpoints don't require  JWT to allow registration and data loggi
 
   - Example Response:
 
-  - ```
+  - ```json
     {
         "Info": [
             {
