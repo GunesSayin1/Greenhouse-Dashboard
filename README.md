@@ -207,7 +207,7 @@ https://gist.github.com/GunesSayin1/983b3254ad2b03c3a59dc354cc4134df
 
   - Example Response:
 
-  - ```
+  - ```json
     {
         "measurements": [
             {
