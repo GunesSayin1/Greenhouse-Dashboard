@@ -1,5 +1,6 @@
 
 
+
 ![010-20  Converted  2](https://user-images.githubusercontent.com/62821891/120042702-e5a60200-c00a-11eb-8c20-f00801db6c0a.png)
 
 # Greenhouse Web App
@@ -10,7 +11,7 @@ Assignment Description can be read from this link:
 
 https://gist.github.com/GunesSayin1/983b3254ad2b03c3a59dc354cc4134df
 
-
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/62821891/120045083-77b00980-c00f-11eb-8ef0-bb9ee5b4a09e.gif)
 
 ## Database Structure
 
